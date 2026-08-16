@@ -1,0 +1,17 @@
+# Generated deployment evidence
+deployment-output.txt
+validation-output.txt
+stc-project.env
+
+# Sensitive or temporary files
+*.env
+*.key
+*.pem
+*.log
+*sas*
+
+# Local archives and editor files
+*.zip
+.DS_Store
+.vscode/
+.idea/
