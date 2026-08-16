@@ -60,8 +60,6 @@ Azure-Secure-Storage-Capstone/
 └── docs/
     ├── architecture.md
     ├── az-104-mapping.md
-    ├── github-publishing.md
-    ├── linkedin-post.md
     ├── sandbox-limitations.md
     ├── validation-summary.md
     └── screenshots/
